@@ -2,6 +2,9 @@
 
 **Upload your marketing campaign data and get KPIs, charts and plain-English answers from an AI analyst in seconds.**
 
+### 👉 [Try the live demo](https://campaign-copilot-samarth.streamlit.app/)
+*No install needed. It opens with sample data. If the app has been asleep, click "Yes, get this app back up" and wait about 30 seconds.*
+
 Built by **Samarth Salvi** · [LinkedIn](https://www.linkedin.com/in/samarth-salvi-1010) · [GitHub](https://github.com/samsalvi1010)
 
 ---

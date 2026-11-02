@@ -1,0 +1,21 @@
+# Virtual environment (rebuild it with requirements.txt)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Secrets: never commit API keys
+.streamlit/secrets.toml
+.env
+
+# Test cache
+.pytest_cache/
+
+# Backup copies of the secrets file made by editors (e.g. nano's secrets.toml.save),
+# but keep the safe example template
+.streamlit/secrets.toml.*
+!.streamlit/secrets.toml.example
+
+# macOS folder settings files
+.DS_Store

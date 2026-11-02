@@ -1,0 +1,8 @@
+# Streamlit theme: clean light look with one blue accent color
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f6f4"
+textColor = "#0b0b0b"
+font = "sans serif"

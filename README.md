@@ -33,15 +33,39 @@ Campaign Copilot gives a marketer a clean dashboard plus an AI assistant that an
 - **Always works, even without AI:** if there's no API key or the AI service fails, a rule-based backup built with pandas still answers.
 - **Privacy by design:** the raw file is **never** sent to the AI, only a compact KPI summary (about 9 KB instead of 270 KB).
 
+## Demo video
+
+🎬 [Watch the demo video](videos/campaign-copilot-demo.mp4) (about 7 MB, opens in GitHub's video player)
+
 ## Screenshots
 
 **Dashboard**
 
 ![Dashboard with KPI cards and charts](images/dashboard.png)
 
+**Performance by channel**
+
+![Channel comparison charts](images/channels.png)
+
+**Performance by campaign**
+
+![Campaign comparison table and charts](images/campaigns.png)
+
 **Ask your data**
 
-![AI answer with chart and recommendation](images/ask.png)
+![Asking a question in plain English](images/ask-question.png)
+
+**Why did Meta drop?**
+
+![Answer explaining Meta's ROAS drop with a weekly chart and recommendation](images/ask-meta-drop.png)
+
+**Where should the budget go?**
+
+![Answer with a budget recommendation](images/ask-budget.png)
+
+**Weekly report**
+
+![Weekly executive report with wins, issues and actions](images/weekly-report.png)
 
 ## How it works
 

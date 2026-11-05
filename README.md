@@ -1,7 +1,5 @@
 # Campaign Copilot
 
-https://github.com/user-attachments/assets/532b2a0d-26d4-4cbd-82f9-80339fde8c34
-
 **Upload your marketing campaign data and get KPIs, charts and plain-English answers from an AI analyst in seconds.**
 
 ### [Try the live demo](https://campaign-copilot-samarth.streamlit.app/)

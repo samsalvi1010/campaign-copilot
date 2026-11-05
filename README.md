@@ -1,8 +1,8 @@
-# 📊 Campaign Copilot
+# Campaign Copilot
 
 **Upload your marketing campaign data and get KPIs, charts and plain-English answers from an AI analyst in seconds.**
 
-### 👉 [Try the live demo](https://campaign-copilot-samarth.streamlit.app/)
+### [Try the live demo](https://campaign-copilot-samarth.streamlit.app/)
 *No install needed. It opens with sample data. If the app has been asleep, click "Yes, get this app back up" and wait about 30 seconds.*
 
 Built by **Samarth Salvi** · [LinkedIn](https://www.linkedin.com/in/samarth-salvi-1010) · [GitHub](https://github.com/samsalvi1010)
@@ -33,39 +33,39 @@ Campaign Copilot gives a marketer a clean dashboard plus an AI assistant that an
 - **Always works, even without AI:** if there's no API key or the AI service fails, a rule-based backup built with pandas still answers.
 - **Privacy by design:** the raw file is **never** sent to the AI, only a compact KPI summary (about 9 KB instead of 270 KB).
 
-## Demo video
+## Demo
 
-🎬 [Watch the demo video](videos/campaign-copilot-demo.mp4) (about 7 MB, opens in GitHub's video player)
+A short walkthrough of the app is available here: [campaign-copilot-demo.mp4](videos/campaign-copilot-demo.mp4)
 
 ## Screenshots
 
-**Dashboard**
+**Dashboard.** KPI summary for the selected period, with weekly spend and revenue.
 
-![Dashboard with KPI cards and charts](images/dashboard.png)
+![Dashboard](images/dashboard.png)
 
-**Performance by channel**
+**Channel performance.** ROAS and CPA by channel, followed by the campaign ranking.
 
-![Channel comparison charts](images/channels.png)
+![Channel performance](images/channels.png)
 
-**Performance by campaign**
+**Campaign ranking.** All campaigns ranked by ROAS, with spend, revenue, conversions, CPA, CTR and conversion rate.
 
-![Campaign comparison table and charts](images/campaigns.png)
+![Campaign ranking](images/campaigns.png)
 
-**Ask your data**
+**Ask your data.** Questions can be typed in plain English or selected from the examples.
 
-![Asking a question in plain English](images/ask-question.png)
+![Ask your data](images/ask-question.png)
 
-**Why did Meta drop?**
+**Example: Meta performance drop.** Gemini traces the drop to the week of 14 September and recommends a tracking audit.
 
-![Answer explaining Meta's ROAS drop with a weekly chart and recommendation](images/ask-meta-drop.png)
+![Meta performance drop](images/ask-meta-drop.png)
 
-**Where should the budget go?**
+**Example: Budget reallocation.** Gemini compares channel ROAS and suggests where to move 10% of the budget.
 
-![Answer with a budget recommendation](images/ask-budget.png)
+![Budget reallocation](images/ask-budget.png)
 
-**Weekly report**
+**Weekly report.** An executive summary with key numbers, wins, issues and recommended actions, downloadable as Markdown.
 
-![Weekly executive report with wins, issues and actions](images/weekly-report.png)
+![Weekly report](images/weekly-report.png)
 
 ## How it works
 
